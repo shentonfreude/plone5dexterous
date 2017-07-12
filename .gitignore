@@ -3,3 +3,8 @@
 adminPassword.txt
 zinstance/parts/
 zinstance/products
+var/blobstorage/
+zinstance/var/blobstorage/
+/zinstance/var/instance*
+/zinstance/var/filestorage/
+/zinstance/var/log/
