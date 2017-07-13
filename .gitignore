@@ -8,3 +8,4 @@ zinstance/var/blobstorage/
 /zinstance/var/instance*
 /zinstance/var/filestorage/
 /zinstance/var/log/
+.eggs/

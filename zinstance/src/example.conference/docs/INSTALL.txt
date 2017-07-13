@@ -1,0 +1,17 @@
+example.conference Installation
+-------------------------------
+
+To install example.conference using zc.buildout and the plone.recipe.zope2instance
+recipe to manage your project, you can do this:
+
+* Add ``example.conference`` to the list of eggs to install, e.g.:
+
+    [buildout]
+    ...
+    eggs =
+        ...
+        example.conference
+       
+* Re-run buildout, e.g. with:
+
+    $ ./bin/buildout
